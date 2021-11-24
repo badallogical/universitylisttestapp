@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UniversityList</string>
+    <string name="location">%1$s, %2$s</string>
+    <string name="visit_website">Visit Website</string>
+</resources>
